@@ -8,3 +8,4 @@ But quality is the most important to trust a data pipeline developed by you.
 example if are using aws, take this as a reference
 ![image](https://user-images.githubusercontent.com/51296663/205245835-27b8ad3e-be6d-4480-adcd-e83397fe318d.png)
 
+note : you can also use the aws glue data brew for the data quality check
